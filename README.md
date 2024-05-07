@@ -10,7 +10,7 @@ This repository contains the implementation of a Multimodal Retrieval System tha
 
 ### Text Feature Extraction:
 - Implements text pre-processing techniques such as lower-casing, tokenization, stop word removal, stemming, and lemmatization.
-- Calculates Term Frequency-Inverse Document Frequency (TF-IDF) scores for textual reviews.
+- Calculates Term Frequency-Inverse Document Frequency (TF-IDF, scratch implementation) scores for textual reviews.
 
 ### Image and Text Retrieval:
 - Finds the most similar images and reviews based on extracted features and TF-IDF scores respectively.
